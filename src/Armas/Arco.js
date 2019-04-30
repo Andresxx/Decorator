@@ -1,7 +1,7 @@
 export class Arco{
     constructor(){
     }
-    obteneDano(){
+    obtenerDano(){
         return 5;
     }
 }

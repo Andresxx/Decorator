@@ -3,7 +3,7 @@ export class Espada{
 
     }
 
-    obteneDano(){
+    obtenerDano(){
         return 10;
     }
 }
